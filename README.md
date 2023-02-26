@@ -13,3 +13,8 @@ ls
 cd tik.py
 ls
 python tik.py
+
+
+
+😼😼😼😼😼🤔🤔😼🤔🤔😼🤔🤔🤔nlbk
+Happy all
